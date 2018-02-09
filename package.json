@@ -1,5 +1,5 @@
 {
-  "name": "YOUR PROJECT NAME",
+  "name": "Main Rails Project",
   "engines": {
     "node": "8.7.0"
   },
