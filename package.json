@@ -1,5 +1,5 @@
 {
-  "name": "Main Rails Project",
+  "name": "main-rails-project",
   "engines": {
     "node": "9.5.0"
   },
