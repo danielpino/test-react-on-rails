@@ -1,7 +1,7 @@
 {
-  "name": "main-rails-project",
+  "name": "Main Rails Project",
   "engines": {
-    "node": "9.5.0"
+    "node": "8.7.0"
   },
   "scripts": {
     "build": "cd client && npm install && npm run build && cd ..",
